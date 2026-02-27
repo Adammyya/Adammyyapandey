@@ -39,7 +39,6 @@ I am "Learning in Public," focused on building a robust technical foundation:
 Beyond technical research, I focus on developing the discipline and strategic thinking required for high-stakes environments:
 - 🏛️ **Public Service & Governance:** Deepening my understanding of geopolitics and administration through **UPSC & AFCAT** preparation to better align tech innovation with national and global policy.
 - 📈 **Strategic Entrepreneurship:** Exploring the logistics, resource management, and operational challenges of localized business models, specifically within the sustainable hospitality sector.
-- 🧘 **Discipline & Performance:** Committed to high-intensity physical conditioning (Calisthenics) as a foundation for mental endurance and long-term professional consistency.
 - 🌐 **Global Tech Policy:** Actively following the intersection of emerging technologies and international relations to advocate for equitable "Tech for Good" frameworks.
 - 📖 **Lifelong Learner:** Always reading about tech, policy, and geopolitics.
 
